@@ -7,7 +7,6 @@ arch.midov.pl
 arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirror.square-r00t.net
-arch.mirror.zachlge.org
 arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
