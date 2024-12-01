@@ -146,7 +146,6 @@ kr.mirrors.cicku.me
 lidsol.fi-b.unam.mx
 linorg.usp.br
 linux.rz.rub.de
-linuxromania.ro
 lon.mirror.rackspace.com
 lysakermoen.com
 md.mirrors.hacktegic.com
@@ -211,6 +210,7 @@ mirror.ette.biz
 mirror.faizuladib.com
 mirror.fcix.net
 mirror.fossable.org
+mirror.fossindia.ovh
 mirror.fra10.de.leaseweb.net
 mirror.fsmg.org.nz
 mirror.fsrv.services
@@ -224,6 +224,7 @@ mirror.host.ag
 mirror.hostart.az
 mirror.hoster.kz
 mirror.hosthink.net
+mirror.hostiko.network
 mirror.hostiran.ir
 mirror.hostup.org
 mirror.hugo-betrugo.de
@@ -414,6 +415,7 @@ mirrors.shanghaitech.edu.cn
 mirrors.sonic.net
 mirrors.standaloneinstaller.com
 mirrors.tuna.tsinghua.edu.cn
+mirrors.twilight.fyi
 mirrors.udenar.edu.co
 mirrors.ukfast.co.uk
 mirrors.uni-plovdiv.net
