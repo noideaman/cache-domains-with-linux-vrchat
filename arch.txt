@@ -374,7 +374,6 @@ mirrors.hit.edu.cn
 mirrors.hosterion.ro
 mirrors.hostico.ro
 mirrors.hust.edu.cn
-mirrors.ims.nksc.lt
 mirrors.iu13.net
 mirrors.janbruckner.de
 mirrors.jcut.edu.cn
@@ -470,6 +469,7 @@ super.quantum-mirror.hu
 syd.mirror.rackspace.com
 tux.rainside.sk
 tw.mirrors.cicku.me
+us-1.arch-linux.mirror.shieldblaze.com
 us.arch.niranjan.co
 us.mirrors.cicku.me
 uvermont.mm.fcix.net
