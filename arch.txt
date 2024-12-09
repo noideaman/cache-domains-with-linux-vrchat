@@ -240,6 +240,7 @@ mirror.it4i.cz
 mirror.its-tps.fr
 mirror.its.dal.ca
 mirror.jingk.ai
+mirror.jonas-prz.be
 mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kaminski.io
