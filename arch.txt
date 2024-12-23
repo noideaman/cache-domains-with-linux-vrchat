@@ -170,6 +170,7 @@ mirror.archlinux.ikoula.com
 mirror.archlinux.no
 mirror.archlinux.tw
 mirror.arctic.lol
+mirror.aria-on-the-planet.es
 mirror.arizona.edu
 mirror.arvancloud.ir
 mirror.bahnhof.net
@@ -210,7 +211,6 @@ mirror.ette.biz
 mirror.faizuladib.com
 mirror.fcix.net
 mirror.fossable.org
-mirror.fossindia.ovh
 mirror.fra10.de.leaseweb.net
 mirror.fsmg.org.nz
 mirror.fsrv.services
@@ -350,7 +350,6 @@ mirror.yuki.net.uk
 mirror1.sox.rs
 mirror2.evolution-host.com
 mirror2.totbb.net
-mirroronet.pl
 mirrors.163.com
 mirrors.acm.wpi.edu
 mirrors.advancedhosters.com
