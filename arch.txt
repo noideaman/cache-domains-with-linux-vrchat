@@ -278,6 +278,7 @@ mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
 mirror.nishi.network
+mirror.nl.cdn-perfprod.com
 mirror.nw-sys.ru
 mirror.nyist.edu.cn
 mirror.oldsql.cc
@@ -455,7 +456,6 @@ pkg.adfinis.com
 plug-mirror.rcac.purdue.edu
 quantum-mirror.hu
 repo.br.ee
-repo.c48.uk
 repo.hyron.dev
 repo.ialab.dsu.edu
 repo.iut.ac.ir
@@ -482,6 +482,7 @@ uvermont.mm.fcix.net
 volico.mm.fcix.net
 vpsmurah.jagoanhosting.com
 wcbmedia.io
+web.sketserv.ru
 www.caco.ic.unicamp.br
 www.gtlib.gatech.edu
 www.gutscheindrache.com
