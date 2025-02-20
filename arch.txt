@@ -268,6 +268,7 @@ mirror.metrocast.net
 mirror.mijn.host
 mirror.mikrogravitation.org
 mirror.mirohost.net
+mirror.mobinhost.com
 mirror.morgan.kr
 mirror.moson.org
 mirror.nak-mci.ir
