@@ -23,7 +23,6 @@ archlinux.astra.in.ua
 archlinux.c3sl.ufpr.br
 archlinux.ccns.ncku.edu.tw
 archlinux.cs.nycu.edu.tw
-archlinux.cu.be
 archlinux.datagr.am
 archlinux.gay
 archlinux.grena.ge
@@ -301,6 +300,7 @@ mirror.raiolanetworks.com
 mirror.redrock.team
 mirror.reisenbauer.ee
 mirror.repository.id
+mirror.ro.cdn-perfprod.com
 mirror.rol.ru
 mirror.rznet.fr
 mirror.sabay.com.kh
