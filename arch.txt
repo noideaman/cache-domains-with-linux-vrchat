@@ -3,6 +3,7 @@ arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
 arch.midov.pl
+arch.miningtcup.me
 arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirror.square-r00t.net
