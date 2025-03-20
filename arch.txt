@@ -1,4 +1,5 @@
 al.arch.niranjan.co
+arch-lux.spirex.me
 arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
@@ -174,6 +175,7 @@ mirror.arizona.edu
 mirror.arvancloud.ir
 mirror.as20647.net
 mirror.bahnhof.net
+mirror.bakertelekom.fr
 mirror.barata.pt
 mirror.bardia.tech
 mirror.bizflycloud.vn
@@ -421,6 +423,7 @@ mirrors.rit.edu
 mirrors.rutgers.edu
 mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
+mirrors.smeal.xyz
 mirrors.sonic.net
 mirrors.standaloneinstaller.com
 mirrors.tuna.tsinghua.edu.cn
