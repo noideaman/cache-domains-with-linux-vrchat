@@ -68,6 +68,7 @@ au.mirrors.cicku.me
 br.mirrors.cicku.me
 ca.mirrors.cicku.me
 ca.us.mirror.archlinux-br.org
+cdnmirror.com
 ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
@@ -100,6 +101,7 @@ ftp.kaist.ac.kr
 ftp.lanet.kr
 ftp.linux.cz
 ftp.linux.org.tr
+ftp.ludd.ltu.se
 ftp.lysator.liu.se
 ftp.myrveln.se
 ftp.nluug.nl
@@ -107,7 +109,6 @@ ftp.ntua.gr
 ftp.osuosl.org
 ftp.otenet.gr
 ftp.psnc.pl
-ftp.rediris.es
 ftp.rnl.tecnico.ulisboa.pt
 ftp.sh.cvut.cz
 ftp.snt.utwente.nl
