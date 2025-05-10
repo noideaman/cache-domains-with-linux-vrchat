@@ -1,6 +1,5 @@
 al.arch.niranjan.co
 arch-lux.spirex.me
-arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
 arch.midov.pl
