@@ -11,7 +11,6 @@ arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
 arch.nimukaito.net
-arch.petarmaric.com
 arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
@@ -32,7 +31,6 @@ archlinux.iskon.hr
 archlinux.koyanet.lv
 archlinux.macarne.com
 archlinux.mailtunnel.eu
-archlinux.mirror.ba
 archlinux.mirror.digitalpacific.com.au
 archlinux.mirror.garr.it
 archlinux.mirror.iphh.net
@@ -55,7 +53,6 @@ archlinux.uk.mirror.allworldit.com
 archlinux.za.mirror.allworldit.com
 archlinux.zepto.cloud
 archmirror.hbit.sztaki.hu
-archmirror.hogwarts.fr
 archmirror1.octyl.net
 arlm.tyzoid.com
 artfiles.org
@@ -277,7 +274,6 @@ mirror.peeres-telecom.fr
 mirror.phx1.us.spryservers.net
 mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
-mirror.poliwangi.ac.id
 mirror.powerfly.ca
 mirror.ps.kz
 mirror.puzzle.ch
@@ -302,8 +298,6 @@ mirror.sg.gs
 mirror.siena.edu
 mirror.siwoo.org
 mirror.smith.geek.nz
-mirror.spaceint.fr
-mirror.stjschools.org
 mirror.sunred.org
 mirror.system.is
 mirror.t-home.mk
@@ -374,7 +368,6 @@ mirrors.jxust.edu.cn
 mirrors.kernel.org
 mirrors.liquidweb.com
 mirrors.lug.mtu.edu
-mirrors.m247.ro
 mirrors.manchester.m247.com
 mirrors.marquitos.space
 mirrors.melbourne.co.uk
@@ -396,7 +389,6 @@ mirrors.pablonara.com
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
 mirrors.purring.online
-mirrors.qvq.net.cn
 mirrors.radwebhosting.com
 mirrors.reitarovskyi.tech
 mirrors.rit.edu
