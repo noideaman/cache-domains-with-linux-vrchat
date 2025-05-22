@@ -7,7 +7,6 @@ arch.miningtcup.me
 arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirrors.lavatech.top
-arch.mirrors.pair.com
 arch.mithril.re
 arch.phinau.de
 arch.sakamoto.pl
@@ -87,7 +86,6 @@ ftp.ludd.ltu.se
 ftp.lysator.liu.se
 ftp.myrveln.se
 ftp.nluug.nl
-ftp.ntua.gr
 ftp.osuosl.org
 ftp.otenet.gr
 ftp.psnc.pl
@@ -142,7 +140,6 @@ mirror.anquan.cl
 mirror.archlinux.ikoula.com
 mirror.archlinux.no
 mirror.archlinux.tw
-mirror.arctic.lol
 mirror.aria-on-the-planet.es
 mirror.arizona.edu
 mirror.arvancloud.ir
@@ -179,7 +176,6 @@ mirror.fossable.org
 mirror.fra10.de.leaseweb.net
 mirror.freedif.org
 mirror.fsmg.org.nz
-mirror.fsrv.services
 mirror.funami.tech
 mirror.gi.co.id
 mirror.group.one
@@ -225,12 +221,9 @@ mirror.metalgamer.eu
 mirror.metanet.ch
 mirror.metrocast.net
 mirror.mijn.host
-mirror.mikrogravitation.org
 mirror.mirohost.net
 mirror.mobinhost.com
 mirror.moson.org
-mirror.nak-mci.ir
-mirror.neostrada.nl
 mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
@@ -251,7 +244,6 @@ mirror.puzzle.ch
 mirror.quantum5.ca
 mirror.rackspace.com
 mirror.raiolanetworks.com
-mirror.redrock.team
 mirror.repository.id
 mirror.ro.cdn-perfprod.com
 mirror.rznet.fr
@@ -268,7 +260,6 @@ mirror.siwoo.org
 mirror.sunred.org
 mirror.t-home.mk
 mirror.telepoint.bg
-mirror.telkomuniversity.ac.id
 mirror.terrahost.no
 mirror.theo546.fr
 mirror.tiguinet.net
@@ -282,7 +273,6 @@ mirror.ufam.edu.br
 mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
-mirror.undisclose.de
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wdc1.us.leaseweb.net
@@ -298,7 +288,6 @@ mirror1.sox.rs
 mirror2.evolution-host.com
 mirrors.163.com
 mirrors.acm.wpi.edu
-mirrors.advancedhosters.com
 mirrors.aliyun.com
 mirrors.aminvakil.com
 mirrors.atlas.net.co
@@ -329,7 +318,6 @@ mirrors.liquidweb.com
 mirrors.lug.mtu.edu
 mirrors.melbourne.co.uk
 mirrors.mit.edu
-mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
 mirrors.nepalicloud.com
@@ -345,7 +333,6 @@ mirrors.pablonara.com
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
 mirrors.purring.online
-mirrors.radwebhosting.com
 mirrors.reitarovskyi.tech
 mirrors.rit.edu
 mirrors.saswata.cc
@@ -360,7 +347,6 @@ mirrors.up.pt
 mirrors.urbanwave.co.za
 mirrors.ustc.edu.cn
 mirrors.vectair.net
-mirrors.viflcraft.top
 mirrors.wsyu.edu.cn
 mirrors.xmission.com
 mirrors.xtom.com
@@ -381,7 +367,6 @@ ord.mirror.rackspace.com
 os.codefionn.eu
 ossmirror.mycloud.services
 packages.oth-regensburg.de
-piotrkosoft.net
 pkg.adfinis-on-exoscale.ch
 pkg.adfinis.com
 plug-mirror.rcac.purdue.edu
