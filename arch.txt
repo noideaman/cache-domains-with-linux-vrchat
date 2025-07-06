@@ -169,6 +169,7 @@ mirror.ditatompel.com
 mirror.dkm.cz
 mirror.easyname.at
 mirror.efect.ro
+mirror.es.cdn-perfprod.com
 mirror.ette.biz
 mirror.faizuladib.com
 mirror.fcix.net
@@ -224,6 +225,7 @@ mirror.mijn.host
 mirror.mirohost.net
 mirror.mobinhost.com
 mirror.moson.org
+mirror.mra.sh
 mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
@@ -254,6 +256,7 @@ mirror.selfnet.de
 mirror.server.net
 mirror.serverion.com
 mirror.sfo12.us.leaseweb.net
+mirror.sg.cdn-perfprod.com
 mirror.sg.gs
 mirror.siena.edu
 mirror.siwoo.org
