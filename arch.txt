@@ -159,6 +159,7 @@ mirror.cmt.de
 mirror.colonelhosting.com
 mirror.cov.ukservers.com
 mirror.cpsc.ucalgary.ca
+mirror.cs.odu.edu
 mirror.cs.vt.edu
 mirror.csclub.uwaterloo.ca
 mirror.cspacehostings.com
@@ -248,6 +249,7 @@ mirror.ps.kz
 mirror.puzzle.ch
 mirror.quantum5.ca
 mirror.rackspace.com
+mirror.rain.ne.jp
 mirror.raiolanetworks.com
 mirror.repository.id
 mirror.ro.cdn-perfprod.com
@@ -262,6 +264,7 @@ mirror.sfo12.us.leaseweb.net
 mirror.sg.cdn-perfprod.com
 mirror.sg.gs
 mirror.siena.edu
+mirror.sinirlan.net
 mirror.siwoo.org
 mirror.sunred.org
 mirror.t-home.mk
