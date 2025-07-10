@@ -268,6 +268,7 @@ mirror.sinirlan.net
 mirror.siwoo.org
 mirror.sunred.org
 mirror.t-home.mk
+mirror.tedwall.se
 mirror.telepoint.bg
 mirror.terrahost.no
 mirror.theo546.fr
