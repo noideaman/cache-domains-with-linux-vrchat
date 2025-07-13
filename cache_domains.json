@@ -117,6 +117,11 @@
 			"description": "CDN for The Elder Scrolls Online",
 			"domain_files": ["teso.txt"]
 		},
+        {
+			"name": "vrchat",
+			"description": "CDN for VRChat",
+			"domain_files": ["vrchat.txt"]
+		},
 		{
 			"name": "warframe",
 			"description": "CDN for Warframe",
